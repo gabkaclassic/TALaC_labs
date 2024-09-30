@@ -1,0 +1,5 @@
+for i = 1 to 3 {
+    for j = 10 to 14 {
+    print "I: ", i, "J: ", j
+    }
+}

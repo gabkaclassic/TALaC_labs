@@ -1,0 +1,5 @@
+<block rows=5 columns=3 >
+    <column valign=center halign=center textcolor=2 bgcolor=0 width=80 >
+        "Hello, World!" in the center of the screen.
+    </column>
+</block>

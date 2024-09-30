@@ -1,0 +1,14 @@
+/home/errodion/Projects/lab_5/bin/Debug/net8.0/lab_5
+/home/errodion/Projects/lab_5/bin/Debug/net8.0/lab_5.deps.json
+/home/errodion/Projects/lab_5/bin/Debug/net8.0/lab_5.runtimeconfig.json
+/home/errodion/Projects/lab_5/bin/Debug/net8.0/lab_5.dll
+/home/errodion/Projects/lab_5/bin/Debug/net8.0/lab_5.pdb
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.AssemblyInfoInputs.cache
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.AssemblyInfo.cs
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.csproj.CoreCompileInputs.cache
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.dll
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/refint/lab_5.dll
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.pdb
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/lab_5.genruntimeconfig.cache
+/home/errodion/Projects/lab_5/obj/Debug/net8.0/ref/lab_5.dll

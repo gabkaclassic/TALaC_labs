@@ -1,0 +1,5 @@
+<block>
+    <column>
+        ”Hellow world” example using eMark
+    </column>
+</block>

@@ -1,0 +1,8 @@
+<block rows=2 columns=1>
+    <row valign=top halign=center textcolor=3 bgcolor=4 height=1>
+        "This is a centered row" in cyan background.
+    </row>
+    <row valign=bottom halign=left textcolor=5 bgcolor=0 height=1>
+        "This is a left-aligned row with magneta text."
+    </row>
+</block>
